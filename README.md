@@ -1,2 +1,2 @@
 # gom3u
-M3U parser in olang
+M3U parser in golang
